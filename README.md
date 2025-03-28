@@ -4,7 +4,7 @@
 
 ## 2097217
 
-![Foto de Mayra]("C:\Users\mayra\Downloads\foto mia.jpg")
+![Mi foto](<foto mia.jpg>)
 
 Hola! soy Mayra tengo 21 años y entré a la facultad en el año 2022. Actualmente me encuentro cursando las siguientes materias:
 
