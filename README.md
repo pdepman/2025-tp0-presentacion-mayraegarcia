@@ -2,9 +2,9 @@
 
 ## Mayra Garcia
 
-## 2097217
+### Legajo: 2097217
 
-![Mi foto](<foto mia.jpg>)
+<img src="foto mia.jpg" alt="Mi foto" width="200" height="100" />
 
 Hola! soy Mayra tengo 21 años y entré a la facultad en el año 2022. Actualmente me encuentro cursando las siguientes materias:
 
@@ -14,3 +14,4 @@ Hola! soy Mayra tengo 21 años y entré a la facultad en el año 2022. Actualmen
 - Fisica 2
 
 Estoy recursando la materia y espero aprobar este año!
+
