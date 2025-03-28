@@ -15,3 +15,4 @@ Hola! soy Mayra tengo 21 años y entré a la facultad en el año 2022. Actualmen
 
 Estoy recursando la materia y espero aprobar este año!
 
+Actualmente estoy en una pasantía en el Banco Credicoop, como es muy reciente espero acomodarme para poder equilibrar el trabajo con la facultad. 
